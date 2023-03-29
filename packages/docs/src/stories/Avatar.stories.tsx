@@ -9,6 +9,13 @@ export default {
     src: 'https://github.com/vanor-cardozo.png',
     alt: 'Vanor Cardozo',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
