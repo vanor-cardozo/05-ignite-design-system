@@ -1,12 +1,12 @@
 {
-  "name": "@ignite-ui/react",
-  "version": "1.0.0",
+  "name": "@vanor-ignite-ui/react",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
-    "@ignite-ui/ts-config": "*",
+    "@vanor-ignite-ui/ts-config": "*",
     "build": "tsup src/index.tsx --format esm,cjs --dts --external react",
     "dev": "tsup src/index.tsx --format esm,cjs --dts --external react --watch",
     "lint": "eslint src/**/*.ts* --fix"
@@ -15,9 +15,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@vanor-ignite-ui/eslint-config": "*",
+    "@vanor-ignite-ui/tokens": "*",
+    "@vanor-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.30",
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",

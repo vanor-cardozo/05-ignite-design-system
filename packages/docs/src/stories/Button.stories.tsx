@@ -1,6 +1,6 @@
 import type { StoryObj, Meta } from '@storybook/react'
 
-import { Button, ButtonProps } from '@ignite-ui/react'
+import { Button, ButtonProps } from '@vanor-ignite-ui/react'
 
 import { ArrowArcRight } from 'phosphor-react'
 
