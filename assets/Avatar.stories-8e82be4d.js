@@ -1,0 +1,2 @@
+import{A as t}from"./index-7e480a65.js";import"./index-a47fda10.js";import"./iframe-6e1091df.js";import"./index-f0a6808c.js";import"./jsx-runtime-0d53f698.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/vanor-cardozo.png",alt:"Vanor Cardozo"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,m as WithFallback,n as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories-8e82be4d.js.map

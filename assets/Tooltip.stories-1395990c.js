@@ -1,0 +1,2 @@
+import{j as o}from"./jsx-runtime-0d53f698.js";import{e as t,a as r}from"./index-7e480a65.js";import"./index-a47fda10.js";import"./iframe-6e1091df.js";import"./index-f0a6808c.js";const m={title:"Data display/Tooltip",component:t,args:{name:"26 de Outubro - Disponível",component:o(r,{children:"Hello!"})}},n={},l=["Primary"];export{n as Primary,l as __namedExportsOrder,m as default};
+//# sourceMappingURL=Tooltip.stories-1395990c.js.map
