@@ -1,6 +1,6 @@
 import type { StoryObj, Meta } from '@storybook/react'
 
-import { Button, Toast, ToastProps } from '@vanor-ignite-ui/react'
+import { Toast, ToastProps } from '@vanor-ignite-ui/react'
 
 export default {
   title: 'Data display/Toast',
